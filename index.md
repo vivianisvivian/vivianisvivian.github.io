@@ -14,4 +14,7 @@
 
 
 ![avatar](/vivian.jpg)
-# 魏温雅 硕士在读 浙江大学航天航空学院
+
+<p><b>硕士在读</b></p>
+<p><b>浙江大学航天航空学院</b></p>
+<p><b>邮箱：vivian_wwy@zju.edu.cn</b></p>
