@@ -7,7 +7,7 @@
       <p><b>邮箱：vivian_wwy@zju.edu.cn</b></p>
     </td>
     <td width="50%">
-      <img src="/vivian.jpg" width="100%"> 
+      <img src="/p1.jpg" width="100%"> 
     </td>
   </tr>
 </table>
