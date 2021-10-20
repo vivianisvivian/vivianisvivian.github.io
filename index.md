@@ -7,13 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 <table border="0">
   <tr>
     <td width="75%">
@@ -23,11 +16,17 @@ Syntax highlighted code block
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
-    <td width="25%">
+<!--     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
+    </td> -->
   </tr>
 </table>
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
 
 
 **Bold** and _Italic_ and `Code` text
