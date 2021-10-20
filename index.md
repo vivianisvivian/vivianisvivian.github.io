@@ -1,4 +1,4 @@
-<table border="0">
+<!-- <table border="0">
   <tr>
     <td width="75%">
       <h1>魏温雅</h1>
@@ -10,10 +10,10 @@
       <img src="/p1.jpg" width="100%"> 
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ![avatar](/vivian.jpg)
-###魏温雅
-##硕士在读
-##浙江大学航天航空学院
+### 魏温雅
+## 硕士在读
+## 浙江大学航天航空学院
