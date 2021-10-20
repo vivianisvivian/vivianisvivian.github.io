@@ -1,8 +1,12 @@
-# 1. Basic RL
+# Basic RL
 
-## 1.1 Bandic 
+### Bandit problem                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
-## 1.2 Marcov Process 
+多臂老虎机是强化学习问题中的简化版本，即每一episode中只有一组状态和一组动作，研究这个问题避免了与马尔可夫链结构相关的复杂情况。
+
+### Marcov Process 
+
+
 
 ## 1.3 DP、MC and TD
 
