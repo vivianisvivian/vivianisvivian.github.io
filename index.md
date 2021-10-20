@@ -1,20 +1,16 @@
-<!-- <table border="0">
-  <tr>
-    <td width="75%">
-      <h1>魏温雅</h1>
-      <p><b>硕士在读</b></p>
-      <p><b>浙江大学航天航空学院</b></p>
-      <p><b>邮箱：vivian_wwy@zju.edu.cn</b></p>
-    </td>
-    <td width="50%">
-      <img src="/p1.jpg" width="100%"> 
-    </td>
-  </tr>
-</table> -->
+# Basic RL
+
+## 1、Bandic 多臂老虎机
+
+## 2、马尔科夫性质
+
+## 3、DP、MC and TD
+
+## 4、Q learning and SARSA
 
 
-![avatar](/vivian.jpg)
+# Popular DRL algrithm
 
-<p><b>硕士在读</b></p>
-<p><b>浙江大学航天航空学院</b></p>
-<p><b>邮箱：vivian_wwy@zju.edu.cn</b></p>
+## DQN
+
+## DDPG
