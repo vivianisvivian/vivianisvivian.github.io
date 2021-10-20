@@ -1,16 +1,20 @@
-# Basic RL
+# 1. Basic RL
 
-## 1、Bandic 多臂老虎机
+## 1.1 Bandic 
 
-## 2、马尔科夫性质
+## 1.2 Marcov Process 
 
-## 3、DP、MC and TD
+## 1.3 DP、MC and TD
 
-## 4、Q learning and SARSA
+## 1.4 Q learning and SARSA
 
 
-# Popular DRL algrithm
+# 2. Popular DRL algrithm
 
-## DQN
+## 2.1 DQN
 
-## DDPG
+## 2.2 NAF
+
+## 2.3 DDPG
+
+## 2.4 TD3
